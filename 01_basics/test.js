@@ -1,1 +1,1 @@
-console.log("Wajid")
+console.log("wajid")
